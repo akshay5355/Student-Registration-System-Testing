@@ -38,6 +38,3 @@ This project automates the testing of a Student Registration System web applicat
 * STLC Concepts
 * Selenium Framework Development
 
-## Author
-
-Akshay Kumar
